@@ -31,8 +31,6 @@ public class B extends A {
 		b.test1();
 		b.test1("test");
 		b.test2();
-		
-
 	}
 
 }
